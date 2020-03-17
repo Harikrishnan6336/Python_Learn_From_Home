@@ -8,7 +8,7 @@ class Tech:
 
     # Adds the tech stack of the participant
     def addStacks(self,name):
-        stack=input("\nThe available Stacks are : Python, GO, Web, UI/UX, Flutter \nEnter a stack you are expert at/interested in : ")
+        stack=input("\nThe available Stacks are : Python, GO, Web, UI/UX, Flutter \nEnter a stack you are expert at/interested in[Case sensitive] : ")
         self.info[name] = [None, None, None]
         if name in self.info:
             self.info[name][0] = stack
@@ -62,7 +62,7 @@ while go:
 		obj.setAvailableTime(name)
 		
 	elif(choice == 2):
-		stack=input("\nThe available Stacks are : Python, GO, Web, UI/UX, Flutter,\nEnter a stack you are interested in learning : ")
+		stack=input("\nThe available Stacks are : Python, GO, Web, UI/UX, Flutter,\nEnter a stack you are interested in learning [Case Sensitive]: ")
 		time=int(input("Enter the required time you need mentoring for : "))
 		obj.getMentor(stack,time)
 
