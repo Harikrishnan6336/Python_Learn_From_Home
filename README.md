@@ -18,6 +18,6 @@ Please use the same method names.
 
 ## Resource
 
-The adviced resource(by TinkerHub) to learn Object Oriented Programming in Python are as follows :
+The adviced resource(by TinkerHub) to learn Object Oriented Programming in Python is as follows :
 
 https://www.tutorialspoint.com/python/python_classes_objects.htm
