@@ -15,9 +15,3 @@ setAvailableTime() : if person is mentor set available time
 getMentor() : Takes stack and time as params and finds available mentors. 
 
 Please use the same method names.
-
-## Resource
-
-The adviced resource(by TinkerHub) to learn Object Oriented Programming in Python is as follows :
-
-https://www.tutorialspoint.com/python/python_classes_objects.htm
