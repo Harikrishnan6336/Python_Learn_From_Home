@@ -16,7 +16,7 @@ getMentor() : Takes stack and time as params and finds available mentors.
 
 Please use the same method names.
 
-### Resource
+## Resource
 
 The adviced resource(by TinkerHub) to learn Object Oriented Programming in Python are as follows :
 
