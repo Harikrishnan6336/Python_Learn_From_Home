@@ -62,7 +62,7 @@ while go:
 		obj.setAvailableTime(name)
 		
 	elif(choice == 2):
-		stack=input("\nThe available Stacks are : Python, GO, Web, UI/UX, Flutter,\nEnter a stack you are interested in learning [Case Sensitive]: ")
+		stack=input("\nThe available Stacks are : Python, GO, Web, UI/UX, Flutter,\nEnter a stack you are interested in learning [Case Sensitive] : ")
 		time=int(input("Enter the required time you need mentoring for : "))
 		obj.getMentor(stack,time)
 
