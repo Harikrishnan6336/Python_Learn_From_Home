@@ -1,0 +1,105 @@
+
+WELCOME Tech learner/mentor
+
+MENU
+
+[1].Enter the details of a participant
+[2].Check the availablity of mentors
+[3].EXIT
+
+Enter your choice : 1
+
+Enter your name : Steve
+
+The available Stacks are : Python, GO, Web, UI/UX, Flutter 
+Enter a stack you are expert at/interested in : Web
+
+Are you a 
+1.Mentor
+2.Learner
+
+Enter your choice : 2
+
+Do you want to continue (Y/N)? Y
+
+WELCOME Tech learner/mentor
+
+MENU
+
+[1].Enter the details of a participant
+[2].Check the availablity of mentors
+[3].EXIT
+
+Enter your choice : 1
+
+Enter your name : Joanna
+
+The available Stacks are : Python, GO, Web, UI/UX, Flutter 
+Enter a stack you are expert at/interested in : GO
+
+Are you a 
+1.Mentor
+2.Learner
+
+Enter your choice : 1
+
+Enter available time(in minutes) : 150
+
+Do you want to continue (Y/N)? Y
+
+WELCOME Tech learner/mentor
+
+MENU
+
+[1].Enter the details of a participant
+[2].Check the availablity of mentors
+[3].EXIT
+
+Enter your choice : 1
+
+Enter your name : Ann
+
+The available Stacks are : Python, GO, Web, UI/UX, Flutter 
+Enter a stack you are expert at/interested in : GO
+
+Are you a 
+1.Mentor
+2.Learner
+
+Enter your choice : 1
+
+Enter available time(in minutes) : 45
+
+Do you want to continue (Y/N)? Y
+
+WELCOME Tech learner/mentor
+
+MENU
+
+[1].Enter the details of a participant
+[2].Check the availablity of mentors
+[3].EXIT
+
+Enter your choice : 2
+
+The available Stacks are : Python, GO, Web, UI/UX, Flutter,
+Enter a stack you are interested in learning : GO
+Enter the required time you need mentoring for : 90
+
+The available mentors are : 
+Joanna 
+
+Do you want to continue (Y/N)? Y
+
+WELCOME Tech learner/mentor
+
+MENU
+
+[1].Enter the details of a participant
+[2].Check the availablity of mentors
+[3].EXIT
+
+Enter your choice : 3
+
+Exiting 
+Thank You
